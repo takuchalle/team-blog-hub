@@ -6,7 +6,7 @@ export const members: Member[] = [
     role: "Software Engineer",
     bio:
       "プログラマになりたいおじさん",
-    avatarSrc: "/avatars/catnose.jpg",
+    avatarSrc: "/avatars/takuchalle.jpeg",
     sources: [
       "https://blog.takuchalle.dev/index.xml",
       "https://zenn.dev/takuchalle/feed",
